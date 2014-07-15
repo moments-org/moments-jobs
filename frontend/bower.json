@@ -1,0 +1,11 @@
+{
+    "name": "moments-jobs-frontend",
+    "version": "1.0.0",
+    "directory": "js",
+    "dependencies": {
+        "angular":"~1.3.0",
+        "angular-route":"~1.3.0",
+        "angular-bootstrap": "*",
+        "bootstrap": "3.2.0"
+    }
+}

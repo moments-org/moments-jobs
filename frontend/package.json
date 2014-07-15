@@ -1,0 +1,22 @@
+{
+    "name": "moments-jobs-frontend",
+    "version": "1.0.0",
+    "description": "Moments frontend challenge",
+    "main": "js/web.js",
+    "dependencies": {
+        "express": "~4.4.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/moments-org/moments"
+    },
+    "scripts": {
+        "start": "node js/web.js"
+    },
+    "private": false,
+    "homepage": "https://github.com/moments-org/moments",
+    "_fromGithub": true,
+    "engine": {
+        "node": "v0.10.21"
+    }
+}

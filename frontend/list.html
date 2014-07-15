@@ -1,0 +1,24 @@
+
+<div ng-repeat="photo in photos" class="photo">
+    <div class="title">{{ photo.title }}</div>
+    <div class="moment picture" ng-if="photo.src">
+        <img src="{{ photo.src }}" />
+    </div>
+
+    <div class="moment picture" ng-if="photo.text">
+        {{ photo.text }}
+    </div>
+
+    <div class="description">{{ photo.description }}</div>
+    <div class="comments">
+        <div ng-repeat="comment in photo.comments" class="comment">
+            <div class="author"> {{ comment.author }}</div>
+            <div class="text"> {{ comment.text }}</div>
+        </div>
+    </div>
+    <div class="links">
+        <div ng-repeat="link in photo.links">
+            <a href="{{link}}">{{link}}</a>
+        </div>
+    </div>
+</div>
