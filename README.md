@@ -1,4 +1,4 @@
-We are looking for the next members of our team to build our Mobile (iOS) and Web apps. Offer includes salary (we're funded), intense learning (we're curious), work from anywhere (we're remote), and equity (we're generous). 
+<img src="https://coderwall-assets-0.s3.amazonaws.com/uploads/team/avatar/53bf00ce443a372c43000001/moments.png" style="float: right;" align="right"> **You can be the next member of our team.** Come help us build our Mobile (iOS) and Web apps. Offer includes salary (we're funded), intense learning (we're curious), work from anywhere (we're remote), and equity (we're generous). 
 
 Sounds good? Read on.
 
@@ -20,7 +20,7 @@ Sounds good? Read on.
 - already planning to be in the US market soon
 - supported by visionary investors
 
-<img src="https://coderwall-assets-0.s3.amazonaws.com/uploads/team/avatar/53bf00ce443a372c43000001/moments.png" style="float: right;" align="right"> [Moments](http://beta.moments.re) connects families by helping them privately and securely store, organize and share their most precious memories. [Learn more about our values, our benefits, our stack.](https://coderwall.com/team/moments)
+[Moments](http://beta.moments.re) connects families by helping them privately and securely store, organize and share their most precious memories. [Learn more about our values, our benefits, our stack.](https://coderwall.com/team/moments)
 
 ## interested? show us what you've got!
 1. make a [private duplicate](https://help.github.com/articles/duplicating-a-repository) of this repository under your own github account.
