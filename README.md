@@ -1,21 +1,10 @@
-## Instructions
-1. make a [private duplicate](https://help.github.com/articles/duplicating-a-repository) of this repository under your own github account.
-2. switch to the branch for the job you're applying for, and start pushing commits to your repo. 
-3. when you're ready to show us something, invite someone from the @moments-org team to the repo.
+We are looking for the next members of our team to build our Mobile (iOS) and Web apps. Offer includes salary (we're funded), intense learning (we're curious), work from anywhere (we're remote), and equity (we're generous). 
 
-### mobile: photo picker challenge
-Improve our photo picker and be our next **iOS developer**. [Detailed instructions for iOS.](https://github.com/moments-org/moments-jobs/tree/master/ios)
-
-### web: photo viewer challenge
-Design a great photo viewer experience and join us as **HTML CSS integrator / designer**. [Detailed instructions for web.](https://github.com/moments-org/moments-jobs/tree/master/front-end)
-
-### how to impress us even more
-- test your code, we :heart: tdd
-- minimize 3rd-party dependencies
+Sounds good? Read on.
 
 ## you...
-- want to build something you're proud of
-- speak English
+- want to build something you're proud of, and maybe [change the world](https://www.youtube.com/watch?v=S_JYy_0XUe8), too
+- enjoy working in English
 - love to learn by cracking problems
 - hate [spaghetti](http://xkcd.com/292/)
 - can't stop yourself from suggesting improvements when you see some, and building them when you can...
@@ -32,3 +21,19 @@ Design a great photo viewer experience and join us as **HTML CSS integrator / de
 - supported by visionary investors
 
 <img src="https://coderwall-assets-0.s3.amazonaws.com/uploads/team/avatar/53bf00ce443a372c43000001/moments.png" style="float: right;" align="right"> [Moments](http://beta.moments.re) connects families by helping them privately and securely store, organize and share their most precious memories. [Learn more about our values, our benefits, our stack.](https://coderwall.com/team/moments)
+
+## interested? show us what you've got!
+1. make a [private duplicate](https://help.github.com/articles/duplicating-a-repository) of this repository under your own github account.
+2. switch to the branch for the job you're applying for, and start pushing commits to your repo. 
+3. when you're ready to show us something, invite someone from the @moments-org team to the repo.
+
+### mobile: photo picker challenge
+Improve our photo picker and be our next **iOS developer**. [Detailed instructions for iOS.](https://github.com/moments-org/moments-jobs/tree/master/ios)
+
+### web: photo viewer challenge
+Design a great photo viewer experience and join us as **HTML CSS integrator / designer**. [Detailed instructions for web.](https://github.com/moments-org/moments-jobs/tree/master/front-end)
+
+### how to impress us even more
+- test your code, we :heart: tdd
+- minimize 3rd-party dependencies
+
