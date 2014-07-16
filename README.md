@@ -3,7 +3,7 @@ We are looking for the next members of our team to build our Mobile (iOS) and We
 Sounds good? Read on.
 
 ## you...
-- want to build something you're proud of, and maybe [change the world](https://www.youtube.com/watch?v=S_JYy_0XUe8), too
+- want to build something you're proud of, and maybe [change the world](https://www.youtube.com/watch?v=UF8uR6Z6KLc), too
 - enjoy working in English
 - love to learn by cracking problems
 - hate [spaghetti](http://xkcd.com/292/)
