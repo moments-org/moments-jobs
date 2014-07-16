@@ -15,7 +15,7 @@ Sounds good? Read on.
 
 ## we...
 ... are a small team of builders:
-- convinced that it is better to be small, but talented and persevering
+- convinced that it is better to be small, but talented and [persevering](https://www.youtube.com/watch?v=4r7wHMg5Yjg)
 - certain that [the very best talent doesn't live in one place](http://37signals.com/remote/)
 - already planning to be in the US market soon
 - supported by visionary investors
