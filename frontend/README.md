@@ -21,6 +21,7 @@ Some ideas to think about:
 * Goal?
 * Wisdom?
 * Many picz?
+* HTML5 compliant?
 
 ### result expected
 
